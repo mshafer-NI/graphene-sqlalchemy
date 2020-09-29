@@ -32,7 +32,7 @@ tests_require = [
 
 setup(
     name="graphene-sqlalchemy",
-    version=version,
+    version="2.1.0",
     description="Graphene SQLAlchemy integration",
     long_description=open("README.rst").read(),
     url="https://github.com/graphql-python/graphene-sqlalchemy",
